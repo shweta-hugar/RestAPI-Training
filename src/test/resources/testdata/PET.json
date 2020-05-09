@@ -1,0 +1,32 @@
+{
+    "id": 16,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+        "www.google.com",
+        "www.tester.com",
+        "www.REST.com"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "mypet"
+        },
+        {
+            "id": 2,
+            "name": "urpet"
+        },
+        {
+            "id": 3,
+            "name": "iskapet"
+        },
+        {
+            "id": 4,
+            "name": "uskapet"
+        }
+    ],
+    "status": "available"
+}
